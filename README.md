@@ -6,7 +6,7 @@ Welcome to my GitHub space, where I share my passion for minimal, aesthetic, and
 
 ## 🪄 About Me
 
-I'm a 4th-semester Computer Science student at the University of Zielona Góra, focused on UX/UI and mobile app development.  
+I'm a 5th-semester Computer Science student at the University of Zielona Góra, focused on UX/UI and mobile app development.  
 I believe in **minimalism** and draw inspiration from **Material Design** principles—design should be both beautiful and make life easier for the user.
 
 - 🎨 I value clarity, aesthetics, and smart solutions.
